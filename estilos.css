@@ -1,0 +1,23 @@
+img {
+    border-radius: 15%;
+    display: block;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    background-color:beige;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    background-color:rgba(226, 112, 117, 0.925);
+    padding: 2.5%;
+}
+h2 {
+    text-align: left;
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: underline;
+    font-size: 20px;
+}
